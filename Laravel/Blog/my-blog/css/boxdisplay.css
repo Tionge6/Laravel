@@ -1,0 +1,33 @@
+.box{
+    width: 500px;
+    background-color: lavender;
+    height: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align:center;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+
+
+}
+
+.box h3{
+    color: azure;
+    font-size: 20px;
+    text-align: center;
+    text transform: uppercase;
+    padding:20px;
+    color:red;
+    text-transform:uppercase;
+}
+
+.box-image{
+    background-image: url(doctor-bg.jpg);
+    width:400px;
+    height: 400px;
+    background-size: cover;
+    margin:0 auto;
+}
